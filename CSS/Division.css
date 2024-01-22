@@ -1,0 +1,18 @@
+#one{
+    background-color: indianred;
+    text-align: center;
+}
+
+body{
+    background-color: floralwhite;
+}
+#two{
+    background-color: aqua;
+    text-align: right;
+}
+#three{
+   background-image: url("images/hack.jpeg");
+    height: 225px;
+
+}
+
